@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanlaub&show_icons=true&theme=radical)
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanlaub&show_icons=true&theme=synthwave)
 
 👋 Hi, my name is Rohan Laubscher
 👀 I’m interested in Neural Networks, Machine Learning and Data Science
