@@ -1,4 +1,4 @@
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanlaub&show_icons=true&theme=gruvbox)
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanlaub&show_icons=true&theme=merko)
 
 👋 Hi, my name is Rohan Laubscher
 👀 I’m interested in Neural Networks, Machine Learning and Data Science
