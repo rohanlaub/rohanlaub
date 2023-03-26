@@ -1,6 +1,4 @@
 # 👋 Hi there, I'm Rohan
-
-## Some of my profile statistics:
 <p>
   <i>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="" target="_blank">contact me</a> if you want to know more about my skills.</i>
 </p>
