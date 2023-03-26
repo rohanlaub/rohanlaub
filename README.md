@@ -12,6 +12,6 @@
 <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 ## Contact Me:
-<a href="rohanlaubscher@gmail.com" target="_blank"> <img alt="gmail" align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-<a href="https://www.linkedin.com/in/rohan-laubscher/" target="_blank"> <img alt="linkedin" align="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-<a href="https://twitter.com/rohanlaub" target="_blank"> <img alt="twitter" align="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /> </a>
+<a href=""> <img alt="gmail" align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/rohan-laubscher/"> <img alt="linkedin" align="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://twitter.com/rohanlaub"> <img alt="twitter" align="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /> </a>
