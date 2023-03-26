@@ -1,8 +1,9 @@
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanlaub&show_icons=true&theme=gruvbox)
+# 👋 Hi there, I'm Rohan
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanlaub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="Left" src="https://github-readme-stats.vercel.app/api?username=rohanlaub&show_icons=true&theme=gruvbox" />
+<img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanlaub&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
-👋 Hi, my name is Rohan Laubscher
+
 👀 I’m interested in Neural Networks, Machine Learning and Data Science
 🌱 I’m currently studying towards a Computer Science Degree in Software Engineering
 📫 How to reach me: twitter @rohanlaub
