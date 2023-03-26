@@ -3,8 +3,8 @@
   <i>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="" target="_blank">contact me</a> if you want to know more about my skills.</i>
 </p>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rohanlaub&show_icons=true&theme=gruvbox" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanlaub&layout=compact" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=rohanlaub&show_icons=true&theme=gruvbox" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanlaub&layout=compact" />
 
 # Frameworks I use: 
 <img align="left" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
