@@ -9,4 +9,9 @@
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanlaub&layout=compact" />
 </div>
 
-<img align="left" width="20%" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg"/>
+## Languages I use:
+<p>Languages:</p>
+<div>
+  <img align="left" width="20%" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg"/>
+
+</div>
